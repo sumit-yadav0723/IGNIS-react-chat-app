@@ -1,7 +1,7 @@
 # **Ignis Chat App**
 
 Ignis Chat App is a modern, lightweight, and real-time chat application built using **React**, **Zustand**, and **Firebase**. It features user authentication, one-on-one messaging, image uploads, and state management powered by Zustand.
-
+Demo Link : https://ignis-react-app.netlify.app/
 ---
 
 ## **Features**
